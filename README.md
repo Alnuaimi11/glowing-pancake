@@ -69,8 +69,8 @@ aaxhrj@gmail.com
       "selectors": [
         [
           "aria/Add one Cafe Latte"
-        ],
-        [
+        ],aaxhrj@gmail.com 
+        [aaxhrj@gmail.com 
           "#app > div.list > div > ul > li:nth-child(2) > div:nth-child(2) > div > button:nth-child(1)"
         ]
       ],
@@ -81,39 +81,39 @@ aaxhrj@gmail.com
     {
       "type": "click",
       "selectors": [
-        [
+        [aaxhrj@gmail.com 
           "aria/Proceed to checkout"
-        ],
-        [
+        ],aaxhrj@gmail.com 
+        [aaxhrj@gmail.com 
           "[data-test=checkout]"
         ]
       ],
       "target": "main",
       "offsetX": 148,
       "offsetY": 31.921875
-    },
-    {
+    },aaxhrj@gmail.com 
+    {aaxhrj@gmail.com 
       "type": "click",
       "selectors": [
-        [
+        [aaxhrj@gmail.com 
           "#name"
-        ]
-      ],
+        ]aaxhrj@gmail.com 
+      ],aaxhrj@gmail.com 
       "target": "main",
       "offsetX": 118.21875,
       "offsetY": 15.90625
-    },
-    {
+    },aaxhrj@gmail.com 
+    {aaxhrj@gmail.com 
       "type": "change",
       "value": "jane",
       "selectors": [
-        [
+        [aaxhrj@gmail.com 
           "#name"
-        ]
-      ],
+        ]aaxhrj@gmail.com 
+      ],aaxhrj@gmail.com 
       "target": "main"
-    },
-    {
+    },aaxhrj@gmail.com 
+    {aaxhrj@gmail.com 
       "type": "keyDown",
       "target": "main",
       "key": "Tab"
