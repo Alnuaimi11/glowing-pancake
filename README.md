@@ -10,7 +10,7 @@ aaxhrj@gmail.com
       "isMobile": false,
       "hasTouch": false,
       "isLandscape": false
-    },
+    },contact aaxhrj@gmail.com
     {
       "type": "navigate",
       "url": "https://coffee-cart.netlify.app/",
