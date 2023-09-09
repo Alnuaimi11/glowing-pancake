@@ -71,7 +71,7 @@ freeline_project_description.json
 fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
-fastlane/test_output
+fastlane/test_output/all taems
 fastlane/readme.md
 
 # Version control
@@ -80,6 +80,6 @@ vcs.xml
 # lint
 lint/intermediates/
 lint/generated/
-lint/outputs/
+lint/outputs/all taems
 lint/tmp/
 # lint/reports/
